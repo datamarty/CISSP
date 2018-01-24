@@ -1,3 +1,4 @@
+
 # CISSP
 # Glossary
 
@@ -6,6 +7,7 @@
 ##### RTO - Recovery Time Objective
 ##### WRT - Work Recovery Time
 ##### MTD - Maximum Tollerable Downtime
+##### ALE - Annualised Loss Expected
 
 ### Biometric
 ##### FRR - False Rejection Rate
