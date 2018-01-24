@@ -1,5 +1,5 @@
-
 # Glosary
+
 ##BIA - Business Impact Analysis
 ###RPO - Recovery Point Objective
 ###RTO - Recovery Time Objective
@@ -10,5 +10,6 @@
 ###FRR - False Rejection Rate
 ###FAR - False Acceptance Rate
 ###CER - Crossover Error Rate (FRR = FAR)
+
 # CISSP
 CISSP resources
