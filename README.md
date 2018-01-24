@@ -1,5 +1,5 @@
 # CISSP
-# Glosary
+# Glossary
 
 ### BIA - Business Impact Analysis
 ##### RPO - Recovery Point Objective
